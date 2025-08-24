@@ -2,7 +2,7 @@
 // index.php
 
 // Un título de la página
-$titulo = "OTRA VEZZZZ";
+$titulo = "ESTE ES EL BUENO";
 
 // Ejemplo de hora actual
 $hora = date("H:i:s");
